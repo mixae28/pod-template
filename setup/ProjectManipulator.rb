@@ -1,4 +1,5 @@
 require 'xcodeproj'
+require 'tmpdir'
 
 module Pod
 
